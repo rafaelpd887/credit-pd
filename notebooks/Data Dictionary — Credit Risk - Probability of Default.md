@@ -75,7 +75,7 @@ They are particularly important for credit risk modeling because they provide in
 
 | Variable | Reference month |
 |---|---|
-| `PAY_0` | September 2005 |
+| `PAY_1` | September 2005 |
 | `PAY_2` | August 2005 |
 | `PAY_3` | July 2005 |
 | `PAY_4` | June 2005 |
